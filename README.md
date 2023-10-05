@@ -1,6 +1,13 @@
 # LEA-IA
 LEA-IA
 
+## DEV
+
+projet LEA-IA Création de la base 
+
+
+###############################
+
 ☕ Café Discussion
 
 Une IA conversationnelle légère 🧑‍💻 conçue pour les conversations naturelles autour d'un café virtuel ! 🍵
